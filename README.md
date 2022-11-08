@@ -1,1 +1,0 @@
-# Ejercicio-pseudo-clases-y-pseudo-elementos
